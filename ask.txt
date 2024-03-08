@@ -1,0 +1,24 @@
+Hi, Ivan Dyer II
+This is my suggestion and plan for your project.
+I will meet your requirements so tailored features will be integrated with AI assist.
+I need some API access keys for MLS and OpenAI, WeatherAPI, etc.
+
+- To make AI assist programically like as Nova ChatGPT app,  OpenAI key is needed.
+Please signup and create new secret key.
+https://platform.openai.com/signup
+https://platform.openai.com/account/api-keys
+And let me know key.
+
+- To collect the real estate data from Zillow, please signup and subscribe with free first
+You can get detail properties list and find any specific agents
+https://rapidapi.com/s.mahmoud97/api/zillow56
+After you subscribe, please let me know `X-RapidAPI-Key` and `X-RapidAPI-Host`
+
+- This is weather API link, please signup with free and let me know apikey.
+I think you are enough with free account to get daily weather.
+https://www.visualcrossing.com/weather/weather-data-services
+
+When you provide me them, I will use your subscribed keys.
+Our AI assist should analysis and train your various questions for the real estate business and translate language and weathers, it takes some efforts and techniques.
+It's very good idea for your business, there are some assists for the buyers, but tailored assist for sellers with AI and real-time data is really worthy.
+I will complete your tailored AI assist system perfectly.
